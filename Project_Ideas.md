@@ -10,7 +10,8 @@ project presentation is in March 2025.
   - [ ] Electrical dashboard ideas - [add here]   
 - [ ] Dashboard that explores the energy star score:
   - [ ] Energy score dashboard ideas - [add here] 
-
+- [ ] NYC Housing Profiler dashboard:
+  - [ ] Report Card for housing only. Multisection dashboard to compare emissions, water usage, green power, Energy star Score. Normalized Metrics Needed. User can compare his community board with others within same Borough. User can search by property and get comparsion with buildings of the same community board. Maps, cards with KPI and charts to support the analysis. This helps to assess  Overall Community Properties and single properties status.
 
 - [ ] Cluster "green" buildings by location, property type, size, etc. Allow users to find correlations between energy scores and other variables. Help people understand what they need to do to make the building greener.
 -	[ ] Compare my building with a benchmark
@@ -22,7 +23,7 @@ and which ones are lagging. (John I hope I got this idea right. Feel free to exp
 - [ ] Use an LLM to perform a building analysis. The user gives the building address and the LLM provides a thorough analysis and summary of the building and how it compares to others. Give tooling to LLM to create graphs.
 Maybe we generate a similar report to the one I get monthly from the NYC electrical company (ConEd):
 ![image](https://github.com/user-attachments/assets/b7c7773b-adaa-4a87-a473-cafd4f4135f9)
-
+- [ ] Use an LLM to help user to understand the data dictionary (embeddings + QA chat)
 ## Resource:
 
 [The Dataset](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/explore)
