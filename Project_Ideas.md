@@ -19,12 +19,12 @@ project presentation is in March 2025.
 
 ## LLMs / AI:
 -	[ ] NYC passed legislation in 2020 with implementation targets. We can try to work with that… LLM gets access to the legislation (RAG) and then the LLM identifies what building are closest to their target
-and which ones are lagging. (John I hope I got this idea right. Feel free to expand or modify).
--	[ ] Build a RAG database that the team can use for any model they choose. Malini 
+and which ones are lagging. (John I hope I got this idea right. Feel free to expand or modify). 
 - [ ] Use an LLM to perform a building analysis. The user gives the building address and the LLM provides a thorough analysis and summary of the building and how it compares to others. Give tooling to LLM to create graphs.
 Maybe we generate a similar report to the one I get monthly from the NYC electrical company (ConEd):
 ![image](https://github.com/user-attachments/assets/b7c7773b-adaa-4a87-a473-cafd4f4135f9)
 - [ ] Use an LLM to help user to understand the data dictionary (embeddings + QA chat)
+- [ ] Build a RAG database that the team can use for any model they choose. Malini
 ## Resource:
 
 [The Dataset](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/explore)
