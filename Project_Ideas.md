@@ -24,6 +24,7 @@ and which ones are lagging. (John I hope I got this idea right. Feel free to exp
 Maybe we generate a similar report to the one I get monthly from the NYC electrical company (ConEd):
 ![image](https://github.com/user-attachments/assets/b7c7773b-adaa-4a87-a473-cafd4f4135f9)
 - [ ] Use an LLM to help user to understand the data dictionary (embeddings + QA chat)
+- [ ] Build a RAG database that the team can use for any model they choose. Malini
 ## Resource:
 
 [The Dataset](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/explore)
