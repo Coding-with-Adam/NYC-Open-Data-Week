@@ -25,10 +25,3 @@ Maybe we generate a similar report to the one I get monthly from the NYC electri
 ![image](https://github.com/user-attachments/assets/b7c7773b-adaa-4a87-a473-cafd4f4135f9)
 - [ ] Use an LLM to help user to understand the data dictionary (embeddings + QA chat)
 - [ ] Build a RAG database that the team can use for any model they choose. Malini
-## Resource:
-
-[The Dataset](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/explore)
-> The ENERGY STAR score compares your building’s energy performance to similar buildings nationwide, normalized for weather and operating characteristics. A score of 50 represents median performance.
-> A higher score is better than average; lower is worse. [Energy Grades](https://www.nyc.gov/site/buildings/property-or-business-owner/energy-grades.page)
-
-[Energy Benchmarking](https://www.nyc.gov/assets/finance/downloads/pdf/22pdf/2022-annual-LL84-municipal-report.pdf)
